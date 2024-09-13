@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python test.py --model_path=./Model/....models/ --iter_number=3000 --dataset=IV/ --A_dir=over_256  --B_dir=high_256
