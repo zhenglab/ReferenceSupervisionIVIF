@@ -10,22 +10,22 @@ Test: https://pan.baidu.com/s/1VJK8h4mB5_hFLgJXAIu9ow?pwd=qxfy : [qxfy]
 
 ## Environment Installation
 pytorch:
-   -python 3.6
-   -torch 1.6.0
-   -torchvision 0.7.0
-   -scipy 1.2.1
-   -numpy 1.18.2
-   -scikit-image 0.16.2
-   -tensorboard 2.11.2
+   - python 3.6
+   - torch 1.6.0
+   - torchvision 0.7.0
+   - scipy 1.2.1
+   - numpy 1.18.2
+   - scikit-image 0.16.2
+   - tensorboard 2.11.2
 
 tensorflow:
-   -python 3.6
-   -tensorflow-gpu 1.15.0 
-   -scipy 1.2.1 
-   -open-python 1.1.1
-   -scikit-image  0.17.2
-   -h5py 3.1.0
-   -numpy 1.19.5
+   - python 3.6
+   - tensorflow-gpu 1.15.0 
+   - scipy 1.2.1 
+   - open-python 1.1.1
+   - scikit-image  0.17.2
+   - h5py 3.1.0
+   - numpy 1.19.5
 
 ## Train
 Baselines:
