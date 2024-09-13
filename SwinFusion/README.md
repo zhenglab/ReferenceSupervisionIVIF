@@ -1,7 +1,4 @@
 
-################conda  sci1############################
-
-
 
 # SwinFusion
 This is official Pytorch implementation of ["SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer"](https://ieeexplore.ieee.org/document/9812535)
