@@ -50,7 +50,7 @@ Place the pre-trained model in the appropriate folder and run "bash test.sh"
 If you use this data for your research, please cite our paper:
 
 ```
-Li, Guihui, Shi, Zhensheng, Gu Zhaorui, Zheng, Bing, Zheng, Haiyong, “Reference-then-Supervision Framework for Infrared and Visible Image Fusion”, pattern recognition, 2024. 
+Li, Guihui and Shi, Zhensheng and Gu, Zhaorui and Zheng, Bing and Zheng, Haiyong, “Reference-then-Supervision Framework for Infrared and Visible Image Fusion”, pattern recognition, 2024. 
 ```
 
 ## Contact
