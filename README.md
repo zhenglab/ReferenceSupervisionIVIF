@@ -37,6 +37,7 @@ Baselines:
    - [DDcGAN](https://github.com/hanna-xu/DDcGAN)
    - [SwinFusion](https://github.com/Linfeng-Tang/SwinFusion)
    - [MGT](https://github.com/Vibashan/Image-Fusion-Transformer)
+
   After preparing the training data, use   
     ```
    bash train.sh
