@@ -39,9 +39,9 @@ Baselines:
    - [MGT](https://github.com/Vibashan/Image-Fusion-Transformer)
 
   After preparing the training data, use   
-    ```
-   bash train.sh
-    ```
+```
+bash train.sh
+```
    to start the training of the model. 
     
 
