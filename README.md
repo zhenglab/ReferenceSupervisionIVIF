@@ -59,7 +59,15 @@ for the testing.
 If you use this data for your research, please cite our paper:
 
 ```
-Li, Guihui and Shi, Zhensheng and Gu, Zhaorui and Zheng, Bing and Zheng, Haiyong, “Reference-then-Supervision Framework for Infrared and Visible Image Fusion”, pattern recognition, 2024. 
+@article{LI2024110996
+author = {Guihui Li and Zhensheng Shi and Zhaorui Gu and Bing Zheng and Haiyong Zheng},
+title = {Reference-then-supervision framework for infrared and visible image fusion},
+journal = {Pattern Recognition},
+pages = {110996},
+year = {2024},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2024.110996},
+}
 ```
 
 # Contact
