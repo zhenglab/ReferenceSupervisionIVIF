@@ -52,8 +52,6 @@ bash test.sh
 ```
 for the testing.
 
-# Results
-[View PDF](image/IVF.pdf)
 
 # Citation
 If you use this data for your research, please cite our paper:
